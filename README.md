@@ -196,8 +196,6 @@ Recommended Bin:
 Recycling Bin
 ```
 
-![Smart Waste Assistant Preview](image/output-img.png)
-
 
 ## License
 
