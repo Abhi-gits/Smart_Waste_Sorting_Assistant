@@ -1,8 +1,12 @@
 # Smart Waste Sorting Assistant
 
+
 A notebook-based AI project that classifies waste images, generates disposal guidance, and recommends a bin using a simple reinforcement learning (RL) policy.
 
 Source notebook: `Smart_Waste_Sorting_Assistant.ipynb`
+
+Link to colab notebook: https://colab.research.google.com/drive/1g-b14FxwK0xVStRZn5rgUplfsY8HMb7l?usp=sharing
+
 
 ## Project Overview
 
@@ -59,7 +63,7 @@ Loads TensorFlow, Keras modules, and utility libraries.
 
 ### 3. Prepare Dataset
 
-- Extracts `trashnet-dataset.zip` into `/content`.
+- Extracts `trashnet-data.zip` into `/content`.
 - Prints folder contents for quick verification.
 
 ### 4. Load Data
@@ -192,12 +196,8 @@ Recommended Bin:
 Recycling Bin
 ```
 
-## Project Structure (Current)
+![Smart Waste Assistant Preview](image/output-img.png)
 
-```text
-Smart_Waste_Sorting_Assistant.ipynb
-README_Smart_Waste_Sorting_Assistant.md
-```
 
 ## License
 
